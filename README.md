@@ -24,7 +24,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 ## 3. 🌐 Data Used
 
 **Source**: Mock performance data from Google Ads (June 1–14)  
-**Dataset**: `GoogleAds_Mock_Campaign_ROAS.csv`
+**Dataset**: GoogleAds_Mock_Campaign_ROAS.csv
 
 ### Dimensions:
 - Date
