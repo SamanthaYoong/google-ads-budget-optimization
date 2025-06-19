@@ -6,6 +6,8 @@
 
 The goal is to determine which ad channels are most effective in terms of performance (ROAS, CAC, Conversion Rate), and reallocate the marketing budget accordingly to maximize return.
 
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/OptimizingBudgetAllocationAcrossGoogleAdsChannelsforFashionE-commerce/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## 2. 🌐 Business Context
