@@ -24,18 +24,18 @@ The goal is to determine which ad channels are most effective in terms of perfor
 **Source**: Mock performance data from Google Ads (June 1–14)  
 **Dataset**: `GoogleAds_Mock_Campaign_ROAS.csv`
 
-### 🌐 Dimensions:
+### Dimensions:
 - Date
 - Channel (Search, Display, YouTube)
 
-### 🌐 Metrics:
+### Metrics:
 - Impressions  
 - Clicks  
 - Conversions  
 - Ad Spend ($)  
 - Revenue ($)
 
-### 🌐 Derived Metrics:
+### Derived Metrics:
 - **CTR** = Clicks / Impressions  
 - **Conversion Rate** = Conversions / Clicks  
 - **CAC** = Ad Spend / Conversions  
@@ -120,4 +120,4 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ### 🌐 Contact / Notes
 
-For insights, suggestions, or collaboration, feel free to open an issue or submit a PR!
+For insights, suggestions, or collaboration, feel free to open an issue!
