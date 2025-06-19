@@ -10,6 +10,12 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](./dashboard-preview.png)
+
+---
+
 ## 2. 🌐 Business Context
 
 - **Industry**: Online Fashion Retail (clothing and accessories)  
