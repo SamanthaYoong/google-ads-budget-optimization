@@ -1,6 +1,6 @@
 # Case Study: Optimizing Budget Allocation Across Google Ads Channels for Fashion E-commerce
 
-## 1. Objective / Problem Statement
+## 1. 🌐 Objective / Problem Statement
 
 **How can we optimize budget allocation across Google Search, Display, and YouTube to improve Return on Ad Spend (ROAS) for a fashion e-commerce campaign?**
 
@@ -8,7 +8,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 ---
 
-## 2. Business Context
+## 2. 🌐 Business Context
 
 - **Industry**: Online Fashion Retail (clothing and accessories)  
 - **Target Market**: Southeast Asia, mobile-first shoppers  
@@ -19,23 +19,23 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 ---
 
-## 3. Data Used
+## 3. 🌐 Data Used
 
 **Source**: Mock performance data from Google Ads (June 1–14)  
 **Dataset**: `GoogleAds_Mock_Campaign_ROAS.csv`
 
-### Dimensions:
+### 🌐 Dimensions:
 - Date
 - Channel (Search, Display, YouTube)
 
-### Metrics:
+### 🌐 Metrics:
 - Impressions  
 - Clicks  
 - Conversions  
 - Ad Spend ($)  
 - Revenue ($)
 
-### Derived Metrics:
+### 🌐 Derived Metrics:
 - **CTR** = Clicks / Impressions  
 - **Conversion Rate** = Conversions / Clicks  
 - **CAC** = Ad Spend / Conversions  
@@ -43,7 +43,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 ---
 
-## 4. Metrics Breakdown (Aggregated Over 14 Days)
+## 4. 🌐 Metrics Breakdown (Aggregated Over 14 Days)
 
 | Channel         | Total Spend | Revenue       | ROAS  | CAC   | CTR (%) | Conversion Rate (%) |
 |----------------|-------------|---------------|-------|-------|---------|----------------------|
@@ -53,7 +53,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 ---
 
-## 5. Visual Analysis Summary
+## 5. 🌐 Visual Analysis Summary
 
 ### A. ROAS by Channel
 - **Google Search**: Highest ROAS at 22.78  
@@ -71,7 +71,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ---
 
-## 6. Recommendations
+## 6. 🌐 Recommendations
 
 ### Budget Reallocation
 
@@ -89,7 +89,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ---
 
-## 7. Impact Forecast (If Recommendations Are Applied)
+## 7. 🌐 Impact Forecast (If Recommendations Are Applied)
 
 | Scenario         | ROAS | Revenue   | Spend   |
 |------------------|------|-----------|---------|
@@ -102,7 +102,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ---
 
-## 8. Lessons & Strategic Takeaways
+## 8. 🌐 Lessons & Strategic Takeaways
 
 - **ROAS ≠ CTR**: YouTube had poor CTR but excellent CR and ROAS — look beyond top-funnel metrics  
 - **Segment by channel + device**: Test performance across mobile vs. desktop  
@@ -110,7 +110,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ---
 
-## 9. Appendices
+## 9. 🌐 Appendices
 
 - 📄 CSV Dataset: `GoogleAds_Mock_Campaign_ROAS.csv`  
 - 📊 Tableau Dashboard (optional preview or link here)  
@@ -118,6 +118,6 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ---
 
-### Contact / Notes
+### 🌐 Contact / Notes
 
 For insights, suggestions, or collaboration, feel free to open an issue or submit a PR!
