@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/27a27a94-c62e-4d81-bb91-29bee43eafdc)# Case Study: Optimizing Budget Allocation Across Google Ads Channels for Fashion E-commerce
 
 ## 1. 🌐 Objective / Problem Statement
 
