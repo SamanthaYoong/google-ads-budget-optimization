@@ -1,4 +1,4 @@
-# Case Study: Optimizing Budget Allocation Across Google Ads Channels for Fashion E-commerce
+![image](https://github.com/user-attachments/assets/27a27a94-c62e-4d81-bb91-29bee43eafdc)# Case Study: Optimizing Budget Allocation Across Google Ads Channels for Fashion E-commerce
 
 ## 1. 🌐 Objective / Problem Statement
 
@@ -54,7 +54,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 | Channel         | Total Spend | Revenue       | ROAS  | CAC   | CTR (%) | Conversion Rate (%) |
 |----------------|-------------|---------------|-------|-------|---------|----------------------|
-| Google Search   | $9,542.73   | $217,362.48    | 22.78 | $2.17 | 9.43    | 20.18                |
+| Google Search   | $22490.40   | $380346.36    | 23.19 | $3.42 | 9.43    | 20.18                |
 | Google Display  | $9,050.34   | $134,982.55    | 14.91 | $2.90 | 6.02    | 18.97                |
 | YouTube Video   | $9,788.10   | $186,341.23    | 19.03 | $2.44 | 2.61    | 24.15                |
 
