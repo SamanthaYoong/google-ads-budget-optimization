@@ -53,7 +53,7 @@ The goal is to determine which ad channels are most effective in terms of perfor
 
 | Channel         | Total Spend | Revenue       | ROAS  | CAC   | CTR (%) | Conversion Rate (%) |
 |----------------|-------------|---------------|-------|-------|---------|----------------------|
-| Google Search   | $7,680.59   | $147,624.26    | 19.22 | $2.58 | 6.47    | 0.78               |
+| Google Search   | $7,680.59   | $147,624.26    | 19.22 | $2.58 | 6.47    | 0.78             |
 | Google Display  | $7,600.28   | $99,667.03    | 13.11 | $3.24 | 8.28    | 0.77                |
 | YouTube Video   | $7,209.53   | $152,241.93    | 21.12 | $2.44 | 6.65   | 0.72               |
 
