@@ -63,14 +63,14 @@ The goal is to determine which ad channels are most effective in terms of perfor
 ## 5. 🌐 Visual Analysis Summary
 
 ### A. ROAS by Channel
-- **Google Search**: Highest ROAS at 22.78  
-- **YouTube Video**: Moderate ROAS at 19.03  
-- **Google Display**: Lowest ROAS at 14.91  
+- **YouTube Video**: Highest ROAS at 21.1  
+- **Google Search**: High ROAS at 19.2  
+- **Google Display**: Lowest ROAS at 13.1  
 
 ### B. Cost Efficiency
-- **CAC** was lowest for **Google Search** ($2.17)  
-- **YouTube** had the best **Conversion Rate** (24.15%)  
-- **CTR** was lowest on **YouTube** (2.61%), suggesting poor initial targeting or creative
+- **Google Search**: Highest CR (0.8%), lowest CAC ($2.58) → most efficient channel 
+- **YouTube Video**: High CR (0.7%), low CAC ($2.62), strongest ROAS (21.1) → strong post-click value
+- **Google Display**: Highest CR (0.8%) but highest CAC at ($3.25) → cost doesn't justify return
 
 ### C. Impressions vs. Revenue
 Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing high post-click performance.  
@@ -84,9 +84,9 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 | Channel         | Current % | Recommended % | Justification                          |
 |----------------|------------|----------------|----------------------------------------|
-| Google Search   | 33%       | 45%            | Best ROAS and lowest CAC               |
-| YouTube Video   | 33%       | 40%            | Strong post-click performance (CR & CAC) |
-| Google Display  | 33%       | 15%            | Lowest ROAS and highest CAC            |
+| YouTube Video   | 33%       | 55%            | Highest revenue, strong ROI, scalable  |
+| Google Search   | 33%       | 40%            | Most efficient (Highest CR, lowest CAC)
+| Google Display  | 33%       | 10%            | Lowest ROAS and highest CAC            |
 
 ### Channel Optimization
 
@@ -120,9 +120,8 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 ## 9. 🌐 Appendices
 
 - 📄 CSV Dataset: [GoogleAds_Mock_Campaign_ROAS.csv](GoogleAds_Mock_Campaign_ROAS.csv)
-- 📊 Tableau Dashboard (optional preview or link here)  
-- 📚 Metrics used: ROAS, CAC, CR, CTR, Revenue, CLV (future enhancement)
-
+- 📊 Tableau Dashboard: [link_here](https://public.tableau.com/views/OptimizingBudgetAllocationAcrossGoogleAdsChannelsforFashionE-commerce/ExecutiveOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- 📚 Metrics used: ROAS, CAC, CR, CTR, Revenue 
 ---
 
 ### 🌐 Contact / Notes
