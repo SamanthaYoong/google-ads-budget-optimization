@@ -89,7 +89,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ### Channel Optimization
 
-- **YouTube**: Improve targeting/creative to boost CTR while maintaining strong CR  
+- **YouTube**: Improve targeting/creative to boost CTR while maintaining strong ROAS  
 - **Display**: Limit to retargeting or high-performing segments (e.g. region/device)  
 - **Search**: Maintain keyword strategy, explore dayparting for added efficiency  
 
@@ -110,7 +110,7 @@ Despite low CTR, **YouTube** contributed strong revenue at lower costs, showing 
 
 ## 8. 🌐 Lessons & Strategic Takeaways
 
-- **ROAS ≠ CTR**: YouTube had poor CTR but excellent CR and ROAS — look beyond top-funnel metrics  
+- **ROAS ≠ CTR**: YouTube had poor CTR but excellent ROAS — look beyond top-funnel metrics  
 - **Segment by channel + device**: Test performance across mobile vs. desktop  
 - **Optimize in short windows**: Performance improved over time — continuous tuning could yield higher ROI in longer campaigns  
 
